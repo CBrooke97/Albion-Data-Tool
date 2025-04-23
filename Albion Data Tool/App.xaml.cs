@@ -10,4 +10,3 @@ namespace Albion_Data_Tool;
 public partial class App : Application
 {
 }
-
