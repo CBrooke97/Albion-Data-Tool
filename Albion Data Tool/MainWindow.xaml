@@ -6,7 +6,10 @@
         xmlns:local="clr-namespace:Albion_Data_Tool"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <Grid Name="MainGrid">
+        <ScrollViewer VerticalScrollBarVisibility="Auto">
+            <WrapPanel Name="WrapPanel"/>
+        </ScrollViewer>
 
     </Grid>
 </Window>

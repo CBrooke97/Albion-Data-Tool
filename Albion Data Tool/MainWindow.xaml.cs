@@ -1,16 +1,8 @@
-﻿using System.Text;
-using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
-using System.Net.Http;
+﻿using System.Net.Http;
 using System.Text.Json;
 using System.Text.Json.Serialization;
+using System.Windows;
+using System.Windows.Controls;
 
 namespace Albion_Data_Tool;
 
@@ -38,9 +30,13 @@ public partial class MainWindow : Window
 
         AlbionMarketEntry[] MarketEntry = JsonSerializer.Deserialize<AlbionMarketEntry[]>(json, options);
 
-        foreach(var Entry in MarketEntry)
+        foreach (var Entry in MarketEntry)
         {
             Console.WriteLine($"City: {Entry.City}, Min Sell Price: {Entry.SellPriceMin}");
+
+            TextBox NewText = new TextBox();
+            NewText.Text = Entry.City;
+            WrapPanel.Children.Add(NewText);
         }
     }
 }
