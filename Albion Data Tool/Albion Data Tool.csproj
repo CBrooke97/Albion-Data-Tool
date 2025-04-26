@@ -9,4 +9,14 @@
         <UseWPF>true</UseWPF>
     </PropertyGroup>
 
+    <ItemGroup>
+      <None Remove="items.json" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include="items.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+    </ItemGroup>
+
 </Project>

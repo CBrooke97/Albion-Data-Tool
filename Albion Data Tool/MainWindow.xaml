@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid Name="MainGrid">
         <ScrollViewer VerticalScrollBarVisibility="Auto">
-            <WrapPanel Name="WrapPanel"/>
+            <StackPanel Name="MainStackPanel" Orientation="Vertical"/>
         </ScrollViewer>
 
     </Grid>
