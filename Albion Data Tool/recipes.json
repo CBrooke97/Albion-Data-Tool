@@ -1,0 +1,57 @@
+{
+  "Recipes": {
+    "Metal Bar": {
+      "PartialId": "METALBAR",
+      "Components": [
+        {
+          "Name": "Ore",
+          "Amount": 5,
+          "TierOffset": 0
+        }
+      ]
+    },
+    "Plank": {
+      "PartialId": "PLANKS",
+      "Components": [
+        {
+          "Name": "Wood",
+          "Amount": 5,
+          "TierOffset": 0
+        }
+      ]
+    },
+    "Leather": {
+      "PartialId": "LEATHER",
+      "Components": [
+        {
+          "Name": "Hide",
+          "Amount": 5,
+          "TierOffset": 0
+        }
+      ]
+    },
+    "Cloth": {
+      "PartialId": "CLOTH",
+      "Components": [
+        {
+          "Name": "Fiber",
+          "Amount": 5,
+          "TierOffset": 0
+        }
+      ]
+    },
+    "Stone Block": {
+      "PartialId": "STONEBLOCK",
+      "Components": [
+        {
+          "Name": "Rock",
+          "Amount": 5,
+          "TierOffset": 0
+        }
+      ]
+    }
+  },
+  "Categories": {
+    "Refined Materials": [ "METALBAR", "PLANKS", "LEATHER", "CLOTH", "STONEBLOCK" ]
+  }
+}
