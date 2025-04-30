@@ -1,57 +1,242 @@
 {
   "Recipes": {
+    "Cloth": {
+      "PartialId": "CLOTH",
+      "Components": {
+        "Basic": [
+          {
+            "PartialId": "CLOTH",
+            "Amount": 1,
+            "TierOffset": -1
+          }
+        ],
+        "4": [
+          {
+            "PartialId": "FIBER",
+            "Amount": 2,
+            "TierOffset": 0
+          }
+        ],
+        "5": [
+          {
+            "PartialId": "FIBER",
+            "Amount": 3,
+            "TierOffset": 0
+          }
+        ],
+        "6": [
+          {
+            "PartialId": "FIBER",
+            "Amount": 4,
+            "TierOffset": 0
+          }
+        ],
+        "7": [
+          {
+            "PartialId": "FIBER",
+            "Amount": 5,
+            "TierOffset": 0
+          }
+        ],
+        "8": [
+          {
+            "PartialId": "FIBER",
+            "Amount": 5,
+            "TierOffset": 0
+          }
+        ]
+      }
+    },
     "Metal Bar": {
       "PartialId": "METALBAR",
-      "Components": [
-        {
-          "Name": "Ore",
-          "Amount": 5,
-          "TierOffset": 0
-        }
-      ]
-    },
-    "Plank": {
-      "PartialId": "PLANKS",
-      "Components": [
-        {
-          "Name": "Wood",
-          "Amount": 5,
-          "TierOffset": 0
-        }
-      ]
+      "Components": {
+        "Basic": [
+          {
+            "PartialId": "ORE",
+            "Amount": 1,
+            "TierOffset": -1
+          }
+        ],
+        "4": [
+          {
+            "PartialId": "ORE",
+            "Amount": 2,
+            "TierOffset": 0
+          }
+        ],
+        "5": [
+          {
+            "PartialId": "ORE",
+            "Amount": 3,
+            "TierOffset": 0
+          }
+        ],
+        "6": [
+          {
+            "PartialId": "ORE",
+            "Amount": 4,
+            "TierOffset": 0
+          }
+        ],
+        "7": [
+          {
+            "PartialId": "ORE",
+            "Amount": 5,
+            "TierOffset": 0
+          }
+        ],
+        "8": [
+          {
+            "PartialId": "ORE",
+            "Amount": 5,
+            "TierOffset": 0
+          }
+        ]
+      }
     },
     "Leather": {
       "PartialId": "LEATHER",
-      "Components": [
-        {
-          "Name": "Hide",
-          "Amount": 5,
-          "TierOffset": 0
-        }
-      ]
+      "Components": {
+        "Basic": [
+          {
+            "PartialId": "LEATHER",
+            "Amount": 1,
+            "TierOffset": -1
+          }
+        ],
+        "4": [
+          {
+            "PartialId": "HIDE",
+            "Amount": 2,
+            "TierOffset": 0
+          }
+        ],
+        "5": [
+          {
+            "PartialId": "HIDE",
+            "Amount": 3,
+            "TierOffset": 0
+          }
+        ],
+        "6": [
+          {
+            "PartialId": "HIDE",
+            "Amount": 4,
+            "TierOffset": 0
+          }
+        ],
+        "7": [
+          {
+            "PartialId": "HIDE",
+            "Amount": 5,
+            "TierOffset": 0
+          }
+        ],
+        "8": [
+          {
+            "PartialId": "HIDE",
+            "Amount": 5,
+            "TierOffset": 0
+          }
+        ]
+      }
     },
-    "Cloth": {
-      "PartialId": "CLOTH",
-      "Components": [
-        {
-          "Name": "Fiber",
-          "Amount": 5,
-          "TierOffset": 0
-        }
-      ]
+    "Planks": {
+      "PartialId": "PLANKS",
+      "Components": {
+        "Basic": [
+          {
+            "PartialId": "PLANKS",
+            "Amount": 1,
+            "TierOffset": -1
+          }
+        ],
+        "4": [
+          {
+            "PartialId": "WOOD",
+            "Amount": 2,
+            "TierOffset": 0
+          }
+        ],
+        "5": [
+          {
+            "PartialId": "WOOD",
+            "Amount": 3,
+            "TierOffset": 0
+          }
+        ],
+        "6": [
+          {
+            "PartialId": "WOOD",
+            "Amount": 4,
+            "TierOffset": 0
+          }
+        ],
+        "7": [
+          {
+            "PartialId": "WOOD",
+            "Amount": 5,
+            "TierOffset": 0
+          }
+        ],
+        "8": [
+          {
+            "PartialId": "WOOD",
+            "Amount": 5,
+            "TierOffset": 0
+          }
+        ]
+      }
     },
-    "Stone Block": {
-      "PartialId": "STONEBLOCK",
-      "Components": [
-        {
-          "Name": "Rock",
-          "Amount": 5,
-          "TierOffset": 0
-        }
-      ]
+    "Blocks": {
+      "PartialId": "STONEBLOCKS",
+      "Components": {
+        "Basic": [
+          {
+            "PartialId": "STONEBLOCKS",
+            "Amount": 1,
+            "TierOffset": -1
+          }
+        ],
+        "4": [
+          {
+            "PartialId": "ROCK",
+            "Amount": 2,
+            "TierOffset": 0
+          }
+        ],
+        "5": [
+          {
+            "PartialId": "ROCK",
+            "Amount": 3,
+            "TierOffset": 0
+          }
+        ],
+        "6": [
+          {
+            "PartialId": "ROCK",
+            "Amount": 4,
+            "TierOffset": 0
+          }
+        ],
+        "7": [
+          {
+            "PartialId": "ROCK",
+            "Amount": 5,
+            "TierOffset": 0
+          }
+        ],
+        "8": [
+          {
+            "PartialId": "ROCK",
+            "Amount": 5,
+            "TierOffset": 0
+          }
+        ]
+      }
     }
   },
   "Categories": {
-    "Refined Materials": [ "METALBAR", "PLANKS", "LEATHER", "CLOTH", "STONEBLOCK" ]
+    "Refined Materials": [ "Cloth", "Planks", "Leather", "Metal Bar", "Blocks" ]
   }
 }
