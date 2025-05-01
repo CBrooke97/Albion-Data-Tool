@@ -19,7 +19,6 @@ public partial class MainWindow : Window
     {
         InitializeComponent();
 
-
         using FileStream fs = File.OpenRead("items.json");
         using JsonDocument itemsJsonDoc = JsonDocument.Parse(fs);
 

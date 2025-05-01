@@ -11,10 +11,14 @@
 
     <ItemGroup>
       <None Remove="items.json" />
+      <None Remove="recipes.json" />
     </ItemGroup>
 
     <ItemGroup>
       <Content Include="items.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="recipes.json">
         <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </Content>
     </ItemGroup>
