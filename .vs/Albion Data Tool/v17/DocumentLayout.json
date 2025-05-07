@@ -1,53 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "Z:\\Albion-Data-Tool\\",
+  "WorkspaceRootPath": "D:\\Dev\\Albion Data Tool\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|z:\\albion-data-tool\\albion data tool\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|d:\\dev\\albion data tool\\albion data tool\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|solutionrelative:albion data tool\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|z:\\albion-data-tool\\albion data tool\\craftingrecipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|d:\\dev\\albion data tool\\albion data tool\\craftingrecipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|solutionrelative:albion data tool\\craftingrecipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|z:\\albion-data-tool\\albion data tool\\recipes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|solutionrelative:albion data tool\\recipes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|z:\\albion-data-tool\\albion data tool\\items.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|d:\\dev\\albion data tool\\albion data tool\\items.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|solutionrelative:albion data tool\\items.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|z:\\albion-data-tool\\albion data tool\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|d:\\dev\\albion data tool\\albion data tool\\recipes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|solutionrelative:albion data tool\\recipes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|d:\\dev\\albion data tool\\albion data tool\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|solutionrelative:albion data tool\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|z:\\albion-data-tool\\albion data tool\\views\\refiningprofitinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|d:\\dev\\albion data tool\\albion data tool\\views\\refiningprofitinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|solutionrelative:albion data tool\\views\\refiningprofitinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|z:\\albion-data-tool\\albion data tool\\views\\itemmarketinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|d:\\dev\\albion data tool\\albion data tool\\views\\itemmarketinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|solutionrelative:albion data tool\\views\\itemmarketinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|z:\\albion-data-tool\\albion data tool\\views\\itemmarketinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|d:\\dev\\albion data tool\\albion data tool\\views\\itemmarketinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|solutionrelative:albion data tool\\views\\itemmarketinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|z:\\albion-data-tool\\albion data tool\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|d:\\dev\\albion data tool\\albion data tool\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|solutionrelative:albion data tool\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|z:\\albion-data-tool\\albion data tool\\views\\menubar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|d:\\dev\\albion data tool\\albion data tool\\views\\menubar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|solutionrelative:albion data tool\\views\\menubar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|z:\\albion-data-tool\\albion data tool\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|d:\\dev\\albion data tool\\albion data tool\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|solutionrelative:albion data tool\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|z:\\albion-data-tool\\albion data tool\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|d:\\dev\\albion data tool\\albion data tool\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A548D7D4-1587-40E3-BE83-E9ABE164C8D3}|Albion Data Tool\\Albion Data Tool.csproj|solutionrelative:albion data tool\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -64,50 +64,24 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CraftingRecipes.cs",
-              "DocumentMoniker": "Z:\\Albion-Data-Tool\\Albion Data Tool\\CraftingRecipes.cs",
+              "DocumentMoniker": "D:\\Dev\\Albion Data Tool\\Albion Data Tool\\CraftingRecipes.cs",
               "RelativeDocumentMoniker": "Albion Data Tool\\CraftingRecipes.cs",
-              "ToolTip": "Z:\\Albion-Data-Tool\\Albion Data Tool\\CraftingRecipes.cs",
+              "ToolTip": "D:\\Dev\\Albion Data Tool\\Albion Data Tool\\CraftingRecipes.cs",
               "RelativeToolTip": "Albion Data Tool\\CraftingRecipes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-01T12:19:31.454Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "items.json",
-              "DocumentMoniker": "Z:\\Albion-Data-Tool\\Albion Data Tool\\items.json",
-              "RelativeDocumentMoniker": "Albion Data Tool\\items.json",
-              "ToolTip": "Z:\\Albion-Data-Tool\\Albion Data Tool\\items.json",
-              "RelativeToolTip": "Albion Data Tool\\items.json",
-              "ViewState": "AgIAAMCKAAAAAAAAAAAMwNOKAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-30T12:12:18.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "recipes.json",
-              "DocumentMoniker": "Z:\\Albion-Data-Tool\\Albion Data Tool\\recipes.json",
-              "RelativeDocumentMoniker": "Albion Data Tool\\recipes.json",
-              "ToolTip": "Z:\\Albion-Data-Tool\\Albion Data Tool\\recipes.json",
-              "RelativeToolTip": "Albion Data Tool\\recipes.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-29T17:51:12.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "Z:\\Albion-Data-Tool\\Albion Data Tool\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Dev\\Albion Data Tool\\Albion Data Tool\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Albion Data Tool\\MainWindow.xaml.cs",
-              "ToolTip": "Z:\\Albion-Data-Tool\\Albion Data Tool\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Dev\\Albion Data Tool\\Albion Data Tool\\MainWindow.xaml.cs",
               "RelativeToolTip": "Albion Data Tool\\MainWindow.xaml.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwDsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAgwNoAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T12:08:41.092Z",
               "EditorCaption": ""
@@ -116,46 +90,43 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ItemMarketInfo.xaml.cs",
-              "DocumentMoniker": "Z:\\Albion-Data-Tool\\Albion Data Tool\\Views\\ItemMarketInfo.xaml.cs",
+              "DocumentMoniker": "D:\\Dev\\Albion Data Tool\\Albion Data Tool\\Views\\ItemMarketInfo.xaml.cs",
               "RelativeDocumentMoniker": "Albion Data Tool\\Views\\ItemMarketInfo.xaml.cs",
-              "ToolTip": "Z:\\Albion-Data-Tool\\Albion Data Tool\\Views\\ItemMarketInfo.xaml.cs",
+              "ToolTip": "D:\\Dev\\Albion Data Tool\\Albion Data Tool\\Views\\ItemMarketInfo.xaml.cs",
               "RelativeToolTip": "Albion Data Tool\\Views\\ItemMarketInfo.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T17:21:06.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T17:21:06.752Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ItemMarketInfo.xaml",
-              "DocumentMoniker": "Z:\\Albion-Data-Tool\\Albion Data Tool\\Views\\ItemMarketInfo.xaml",
+              "DocumentMoniker": "D:\\Dev\\Albion Data Tool\\Albion Data Tool\\Views\\ItemMarketInfo.xaml",
               "RelativeDocumentMoniker": "Albion Data Tool\\Views\\ItemMarketInfo.xaml",
-              "ToolTip": "Z:\\Albion-Data-Tool\\Albion Data Tool\\Views\\ItemMarketInfo.xaml",
+              "ToolTip": "D:\\Dev\\Albion Data Tool\\Albion Data Tool\\Views\\ItemMarketInfo.xaml",
               "RelativeToolTip": "Albion Data Tool\\Views\\ItemMarketInfo.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-25T16:03:10.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T16:03:10.172Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "RefiningProfitInfo.xaml",
-              "DocumentMoniker": "Z:\\Albion-Data-Tool\\Albion Data Tool\\Views\\RefiningProfitInfo.xaml",
+              "DocumentMoniker": "D:\\Dev\\Albion Data Tool\\Albion Data Tool\\Views\\RefiningProfitInfo.xaml",
               "RelativeDocumentMoniker": "Albion Data Tool\\Views\\RefiningProfitInfo.xaml",
-              "ToolTip": "Z:\\Albion-Data-Tool\\Albion Data Tool\\Views\\RefiningProfitInfo.xaml",
+              "ToolTip": "D:\\Dev\\Albion Data Tool\\Albion Data Tool\\Views\\RefiningProfitInfo.xaml",
               "RelativeToolTip": "Albion Data Tool\\Views\\RefiningProfitInfo.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-25T15:47:46.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T15:47:46.244Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "Z:\\Albion-Data-Tool\\Albion Data Tool\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\Dev\\Albion Data Tool\\Albion Data Tool\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Albion Data Tool\\MainWindow.xaml",
-              "ToolTip": "Z:\\Albion-Data-Tool\\Albion Data Tool\\MainWindow.xaml",
+              "ToolTip": "D:\\Dev\\Albion Data Tool\\Albion Data Tool\\MainWindow.xaml",
               "RelativeToolTip": "Albion Data Tool\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-24T12:07:07.359Z",
@@ -165,50 +136,115 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "Z:\\Albion-Data-Tool\\Albion Data Tool\\App.xaml.cs",
+              "DocumentMoniker": "D:\\Dev\\Albion Data Tool\\Albion Data Tool\\App.xaml.cs",
               "RelativeDocumentMoniker": "Albion Data Tool\\App.xaml.cs",
-              "ToolTip": "Z:\\Albion-Data-Tool\\Albion Data Tool\\App.xaml.cs",
+              "ToolTip": "D:\\Dev\\Albion Data Tool\\Albion Data Tool\\App.xaml.cs",
               "RelativeToolTip": "Albion Data Tool\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T12:08:18.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T12:08:18.732Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "MenuBar.xaml",
-              "DocumentMoniker": "Z:\\Albion-Data-Tool\\Albion Data Tool\\Views\\MenuBar.xaml",
+              "DocumentMoniker": "D:\\Dev\\Albion Data Tool\\Albion Data Tool\\Views\\MenuBar.xaml",
               "RelativeDocumentMoniker": "Albion Data Tool\\Views\\MenuBar.xaml",
-              "ToolTip": "Z:\\Albion-Data-Tool\\Albion Data Tool\\Views\\MenuBar.xaml",
+              "ToolTip": "D:\\Dev\\Albion Data Tool\\Albion Data Tool\\Views\\MenuBar.xaml",
               "RelativeToolTip": "Albion Data Tool\\Views\\MenuBar.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-24T12:07:14.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T12:07:14.175Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "Z:\\Albion-Data-Tool\\Albion Data Tool\\AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Dev\\Albion Data Tool\\Albion Data Tool\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Albion Data Tool\\AssemblyInfo.cs",
-              "ToolTip": "Z:\\Albion-Data-Tool\\Albion Data Tool\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Dev\\Albion Data Tool\\Albion Data Tool\\AssemblyInfo.cs",
               "RelativeToolTip": "Albion Data Tool\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T12:06:59.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T12:06:59.013Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "App.xaml",
-              "DocumentMoniker": "Z:\\Albion-Data-Tool\\Albion Data Tool\\App.xaml",
+              "DocumentMoniker": "D:\\Dev\\Albion Data Tool\\Albion Data Tool\\App.xaml",
               "RelativeDocumentMoniker": "Albion Data Tool\\App.xaml",
-              "ToolTip": "Z:\\Albion-Data-Tool\\Albion Data Tool\\App.xaml",
+              "ToolTip": "D:\\Dev\\Albion Data Tool\\Albion Data Tool\\App.xaml",
               "RelativeToolTip": "Albion Data Tool\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-24T12:06:55.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "3a7b6bca-e244-497a-ad91-1d6165e0a242",
+        "Display": 1,
+        "X": 726,
+        "Y": 113,
+        "Width": 2193,
+        "Height": 966,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "recipes.json",
+              "DocumentMoniker": "D:\\Dev\\Albion Data Tool\\Albion Data Tool\\recipes.json",
+              "RelativeDocumentMoniker": "Albion Data Tool\\recipes.json",
+              "ToolTip": "D:\\Dev\\Albion Data Tool\\Albion Data Tool\\recipes.json",
+              "RelativeToolTip": "Albion Data Tool\\recipes.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T17:51:12.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "a2efa4e3-4a0d-46be-a1fb-69d0db179ebf",
+        "Display": 0,
+        "X": -1003,
+        "Y": 353,
+        "Width": 2193,
+        "Height": 966,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "items.json",
+              "DocumentMoniker": "D:\\Dev\\Albion Data Tool\\Albion Data Tool\\items.json",
+              "RelativeDocumentMoniker": "Albion Data Tool\\items.json",
+              "ToolTip": "D:\\Dev\\Albion Data Tool\\Albion Data Tool\\items.json",
+              "RelativeToolTip": "Albion Data Tool\\items.json",
+              "ViewState": "AgIAAP6LAAAAAAAAAAAMwPeKAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T12:12:18.519Z",
               "EditorCaption": ""
             }
           ]
